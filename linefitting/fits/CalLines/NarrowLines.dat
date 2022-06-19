@@ -1,0 +1,78 @@
+# XCALGSE - NARROW LINES
+#
+#!  NAME       Z       ENERGY (eV)
+    O-Ka12     8       524.90
+
+    F-Ka12     9       676.80
+
+    Na-Ka12    11      1040.98
+    Na-Kb      11      1071.1
+
+    Mg-Ka12    12      1253.60
+    Mg-Kb      12      1302.2
+
+    Si-Ka12    14      1739.78
+    Si-Kb      14      1835.94
+
+    Cl-Kb      17      2815.6       # J.A. Bearden, Rev. Mod. Phys. 39, 78-124 (1967)
+
+    K-Ka1      19      3313.80 
+    K-Ka2      19      3311.10 
+    K-Kb       19      3589.60 
+
+    Ti-Ka2     22      4504.86 
+    Ti-Ka1     22      4510.84 
+
+    V-Ka2      23      4944.64 
+    V-Ka1      23      4952.20 
+
+    Cr-Ka2     24      5405.5384    # https://physics.nist.gov/cgi-bin/XrayTrans/search.pl?element=Cr&trans=KL2&trans=KL3&lower=&upper=&units=eV
+    Cr-Ka1     24      5414.8045    # https://physics.nist.gov/cgi-bin/XrayTrans/search.pl?element=Cr&trans=KL2&trans=KL3&lower=&upper=&units=eV
+	
+    Mn-Ka2     25      5887.6 
+    Mn-Ka1     25      5898.8 
+    Mn-Kb      25      6490.45 
+
+    Fe-La1     26      704.8        # J.A. Bearden, Rev. Mod. Phys. 39, 78-124 (1967)
+    Fe-Ka1     26      6404.0062    # G. Hölzer, M. Fritsch, M. Deutsch, J. Härtwig, and E. Förster, Phys. Rev. A 56, 4554-4568 (1997)
+    Fe-Ka2     26      6391.0264    # G. Hölzer, M. Fritsch, M. Deutsch, J. Härtwig, and E. Förster, Phys. Rev. A 56, 4554-4568 (1997)
+
+    Co-Ka2     27      6915.30 
+    Co-Ka1     27      6930.32 
+    Co-Kb      27      7649.43 
+
+    Ni-La1     28      851.47       # J.A. Bearden, Rev. Mod. Phys. 39, 78-124 (1967)
+
+    Cu-La1     29      929.68       # J.A. Bearden, Rev. Mod. Phys. 39, 78-124 (1967)
+    Cu-Ka2     29      8027.83 
+    Cu-Ka1     29      8047.78 
+    Cu-Kb      29      8905.29 
+
+    Zn-Ka2     30      8615.78 
+    Zn-Ka1     30      8638.86 
+    Zn-Kb      30      9572.00 
+
+    Y-Ka2      39      14882.9 
+    Y-Ka1      39      14958.4 
+    Y-Kb       39      16737.8 
+
+    Nb-Ka2     41      16521.0 
+    Nb-Ka1     41      16615.1 
+    Nb-Kb      41      18622.5 
+
+    Mo-Ka2     42      17374.3 
+    Mo-Ka1     42      17479.34 
+    Mo-Kb      42      19608.3 
+
+    W-Ma       74      1775.4       # unknown presentation by Steve Smith to Ruslan Hummatov
+    W-Mb       74      1834.9       # unknown presentation by Steve Smith to Ruslan Hummatov
+    W-La2      74      8335.20 
+    W-La1      74      8397.60 
+    W-Lb4      74      9525.20 
+    W-Lb1      74      9672.35 
+    W-Lb3      74      9818.80 
+    W-Lb2      74      9961.50 
+    W-Lg1      74      11285.9 
+
+    Au-La1     79      9713.44      # J.A. Bearden, Rev. Mod. Phys. 39, 78-124 (1967)
+    Au-Lb1     79      11442.45     # J.A. Bearden, Rev. Mod. Phys. 39, 78-124 (1967)

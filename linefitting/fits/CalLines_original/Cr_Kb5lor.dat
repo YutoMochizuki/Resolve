@@ -1,0 +1,17 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Cr_Kb5lor
+# Z: 24
+# ELOW: 5863.00000
+# EHIGH: 6014.00000
+#
+# 7 Lorentzian model from G. Holzer, M. Fritsch, M. Deutsch, J. Hartwig, and E. Forster
+# Phys Rev A, Vol 56, p4554
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   5947.00            1.700000          0.670000  
+   5935.31            15.98000          0.055000  
+   5946.24            1.900000          0.337000  
+   5942.04            6.690000          0.082000  
+   5944.93            3.370000          0.151000  

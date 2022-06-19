@@ -1,0 +1,22 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Mn_Ka8lor
+# Z: 25
+# ELOW: 5844.000000
+# EHIGH: 5942.000000
+#
+# 7 Lorentzian model from G. Holzer, M. Fritsch, M. Deutsch, J. Hartwig, and E. Forster
+# Phys Rev A, Vol 56, p4554
+# Deconvolved spectra re-fit by F. S. Porter 11/30/2004, correcting several 
+# errors in the paper.
+# checked by FSP 2015/05/21
+#! Energy (eV)        Width (eV)        Amplitude
+   5903.882           1.714500          0.784000  
+   5902.898           2.044200          0.263000  
+   5899.864           4.498500          0.067000  
+   5901.566           2.661600          0.095000  
+   5904.444           0.976690          0.071000  
+   5907.712           1.552800          0.011000  
+   5892.772           2.360400          0.369000  
+   5891.528           4.216800          0.100000  
+#templateから+5eVをshift

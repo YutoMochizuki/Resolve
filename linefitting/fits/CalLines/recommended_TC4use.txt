@@ -1,0 +1,16 @@
+Si_Ka2lor
+Sc_Ka5lor_Ito
+Ti_Ka6lor_Chant
+Mn_Ka8lor
+Cr_Kb5lor
+Fe_Ka7lor
+Mn_Kb5lor
+Co_Ka7lor
+Fe_Kb4lor
+Ni_Ka5lor
+Co_Kb6lor
+Cu_Ka4lor
+Ni_Kb4lor
+Zn_Ka4lor_Ito
+Cu_Kb5lor
+Ge_Ka4lor_Ito

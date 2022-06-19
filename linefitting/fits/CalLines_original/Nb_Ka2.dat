@@ -1,0 +1,15 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Nb_Ka2lor
+# Z: 41
+# ELOW: 16441.000000
+# EHIGH: 16706.000000
+#
+# Positions from Bearden Rev. Modern Physics 39, 1967, p78
+# 2 Lorentzian model (widths) from M. O. Krause and J. H. Oliver
+# J. Phys. Chem. Ref. Data, Vol 8, No 2, 1979, p329
+# Relative intensities from Scofield, Atomic Data and Nuclear Data Tables14,121(1974)
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   16521.0            6.010000          0.523667  

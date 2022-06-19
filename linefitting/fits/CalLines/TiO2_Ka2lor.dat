@@ -1,0 +1,17 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: TiO2_Ka2lor
+# Z: 22
+# ELOW: 4486.000000
+# EHIGH: 4529.000000
+#
+# Positions from Bearden Rev. Modern Physics 39, 1967, p78
+# 2 Lorentzian model (widths) from M. O. Krause and J. H. Oliver
+# J. Phys. Chem. Ref. Data, Vol 8, No 2, 1979, p329
+# Chemshift and Ka1/Ka2 ratio from Kavcic et al, X-ray Spectrometry
+#  34, 2005, p310
+# Revised 2015/05/18 FSP
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   4510.250000        1.160000          1.000000  
+   4504.500000        1.180000          0.400000  

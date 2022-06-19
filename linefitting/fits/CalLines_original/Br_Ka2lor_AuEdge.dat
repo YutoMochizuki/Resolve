@@ -1,0 +1,13 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Br_Ka2lor_AuEdge
+# Z: 35
+# ELOW: 11832.000000
+# EHIGH: 11981.000000
+#
+# Same as Br_Ka2lor, but with the amplitudes adjusted to account for
+# the gold edge.
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   11924.2            3.600000          1.000000  
+   11877.6            3.730000          0.375000  

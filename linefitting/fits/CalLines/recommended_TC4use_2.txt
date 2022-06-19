@@ -1,0 +1,10 @@
+Br_Ka1
+Br_Ka2
+Y_Ka1
+Y_Ka2
+Nb_Ka1
+Nb_Ka2
+Mo_Ka1
+Mo_Ka2
+Ag_Ka1
+Ag_Ka2

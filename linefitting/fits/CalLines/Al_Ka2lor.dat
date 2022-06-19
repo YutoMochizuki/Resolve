@@ -1,0 +1,16 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Al_Ka2lor
+# Z: 13
+# ELOW: 1480.000000
+# EHIGH: 1493.000000
+#
+# Positions from Bearden Rev. Modern Physics 39, 1967, p78
+# 2 Lorentzian model (widths) from M. O. Krause and J. H. Oliver
+# J. Phys. Chem. Ref. Data, Vol 8, No 2, 1979, p329
+# Relative intensities from Scofield, Atomic Data and Nuclear Data Tables14,121(1974)
+# checked by FSP 2015/05/19
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   1486.708           0.430000          1.000000  
+   1486.295           0.430000          0.503000  

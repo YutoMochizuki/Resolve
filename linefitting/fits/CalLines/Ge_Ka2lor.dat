@@ -1,0 +1,17 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Ge_Ka2lor
+# Z: 32
+# ELOW: 9814.000000
+# EHIGH: 9930.000000
+#
+# Positions from Bearden Rev. Modern Physics 39, 1967, p78
+# note Bearden values of positions are sightly different to quoted in big x-ray book
+# 2 Lorentzian model (widths) from M. O. Krause and J. H. Oliver
+# J. Phys. Chem. Ref. Data, Vol 8, No 2, 1979, p329
+# Relative intensities from Scofield, Atomic Data and Nuclear Data Tables14,121(1974)
+# added 2018/10/10
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   9886.42            2.780000          1.000000  
+   9855.32            2.920000          0.515517  

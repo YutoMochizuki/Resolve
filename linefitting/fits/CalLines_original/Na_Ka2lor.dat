@@ -1,0 +1,15 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Na_Ka2lor
+# Z: 11
+# ELOW: 1036.000000
+# EHIGH: 1046.000000
+#
+# Positions from Bearden Rev. Modern Physics 39, 1967, p78.
+# 2 Lorentzian model (widths) from M. O. Krause and J. H. Oliver
+# J. Phys. Chem. Ref. Data, Vol 8, No 2, 1979, p329
+# checked by FSP 2015/05/19
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   1040.98            0.300000          1.000000  
+   1040.98            0.300000          0.500000  

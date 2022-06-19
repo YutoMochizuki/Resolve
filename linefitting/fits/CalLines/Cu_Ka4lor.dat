@@ -1,0 +1,16 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Cu_Ka4lor
+# Z: 29
+# ELOW: 7987.000000
+# EHIGH: 8092.000000
+#
+# 4 Lorentzian model from G. Holzer, M. Fritsch, M. Deutsch, J. Hartwig, and E. Forster
+# Phys Rev A, Vol 56, p4554
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   8047.837           2.285000          0.957000  
+   8045.367           3.358000          0.090000  
+   8027.993           2.666000          0.334000  
+   8026.504           3.571000          0.111000  

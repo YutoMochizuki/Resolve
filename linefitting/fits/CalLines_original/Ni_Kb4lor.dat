@@ -1,0 +1,16 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Ni_Kb4lor
+# Z: 28
+# ELOW: 8165.000000
+# EHIGH: 8357.000000
+#
+# 4 Lorentzian model from G. Holzer, M. Fritsch, M. Deutsch, J. Hartwig, and E. Forster
+# Phys Rev A, Vol 56, p4554
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   8265.01            3.760000          0.722000  
+   8263.01            4.340000          0.358000  
+   8256.67            13.700000         0.089000  
+   8268.70            5.180000          0.104000  

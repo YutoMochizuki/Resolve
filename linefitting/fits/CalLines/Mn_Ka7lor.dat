@@ -1,0 +1,23 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Mn_Ka7lor
+# Z: 25
+# ELOW: 5844.000000
+# EHIGH: 5942.000000
+#
+# 7 Lorentzian model from G. Holzer, M. Fritsch, M. Deutsch, J. Hartwig, and E. Forster
+# Phys Rev A, Vol 56, p4554
+# Changed the intensity on a22 to 0.1 (quoted as 0.01 in paper. I think it is a typo)
+# FSP: added 8th line, ka16 and fixed ka15 whose intensity was also wrong by 10x,
+# Private communication Hoelzer to FSP
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   5898.853           1.715000          0.790000  
+   5897.867           2.043000          0.264000  
+   5894.829           4.499000          0.068000  
+   5896.532           2.663000          0.096000  
+   5899.417           0.969000          0.071400  
+   5902.712           1.552800          0.010600  
+   5887.743           2.361000          0.372000  
+   5886.495           4.216000          0.100000  

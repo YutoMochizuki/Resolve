@@ -1,0 +1,15 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Mn_Ka2lor_LeeSalem
+# Z: 25
+# ELOW: 5851.000000
+# EHIGH: 5932.000000
+#
+# Positions from Bearden Rev. Modern Physics 39, 1967, p78
+# 2 Lorentzian model from P. L. Lee and S. I. Salem
+# Phys Rev A, Vol 10, p2027
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   5898.75            2.130000          1.000000  
+   5887.65            2.600000          0.409615  

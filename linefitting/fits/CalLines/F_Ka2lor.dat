@@ -1,0 +1,16 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: F_Ka2lor
+# Z: 9
+# ELOW: 674.000000
+# EHIGH: 680.000000
+#
+# Positions from Bearden, Rev. Modern Physics 39, 1967, p78
+# Faked 2 lorentzian mode. Only F Ka is in Bearden
+# width extrapolated from Krause and Oliver
+# checked by FSP 2015/05/19
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   676.8              0.200000          1.000000  
+   676.8              0.200000          0.500000  
+

@@ -1,0 +1,18 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Al_Ka5lor
+# Z: 13
+# ELOW: 1479.000000
+# EHIGH: 1502.000000
+#
+# ka1, ka2 widths from M.O. Krause and J.H. Oliver, J. Phys. Chem. Ref. Data, 8, 329, 1979.
+# Energies from D.W. Fischer and W.L. Baun, J. Appl. Phys., 36, 534, 1965  for both metallic Al.
+# ka3 and ka4 widths from B. Nordfors, Proc. Phys. Soc., A, 68, 654, 1955.
+# CK cannot find a width for the ka' (8Jan2004), so its source is unknown.   We should be prepared to change it.
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   1486.9             0.430000          1.000000  
+   1486.5             0.430000          0.500000  
+   1496.4             0.960000          0.053750  
+   1498.4             1.252000          0.020607  
+   1492.3             1.340000          0.006418  

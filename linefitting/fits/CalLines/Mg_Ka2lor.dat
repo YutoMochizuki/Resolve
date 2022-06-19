@@ -1,0 +1,15 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Mg_Ka2lor
+# Z: 12
+# ELOW: 1248.000000
+# EHIGH: 1259.000000
+#
+# Positions from Bearden Rev. Modern Physics 39, 1967, p78
+# 2 Lorentzian model (widths) from M. O. Krause and J. H. Oliver
+# J. Phys. Chem. Ref. Data, Vol 8, No 2, 1979, p329
+# checked by FSP 2015/05/19
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   1253.60            0.360000          1.000000  
+   1253.60            0.360000          0.500000  

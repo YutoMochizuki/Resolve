@@ -1,0 +1,17 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Ti_Kb4lor_Chant
+# Z: 22
+# ELOW: 4888.000000
+# EHIGH: 4967.000000
+#
+# Chantler et al, J. Phys. B 46, 145601 (2013)
+# Warning: these parameters were derived from an experiment using a 
+# beam with a Gaussian FWHM of about 3 eV.  The line shape is not 
+# reliable for resolutions below 3 eV. 
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   4925.37            16.30000          0.016000  
+   4930.096           4.250000          0.138000  
+   4931.967           0.420000          1.000000  
+   4935.59            0.470000          0.053000  

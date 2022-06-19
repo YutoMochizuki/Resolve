@@ -1,0 +1,16 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Zn_Ka4lor_Ito
+# Z: 30
+# ELOW: 8576.000000
+# EHIGH: 8685.000000
+#
+# Ito et al, JQSRT 151, 295 (2015)
+# Widths of satellite lines are uncorrected.  The first and third lines use
+# the CR widths values from Table 1 and the second and fourth use the W widths.
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   8638.96            2.420000          1.000000  
+   8636.28            4.730000          0.060200
+   8615.90            2.450000          0.447000  
+   8613.98            3.190000          0.077600  

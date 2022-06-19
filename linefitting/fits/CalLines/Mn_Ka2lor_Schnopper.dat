@@ -1,0 +1,14 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Mn_Ka2lor_Schnopper
+# Z: 25
+# ELOW: 5843.000000
+# EHIGH: 5943.000000
+#
+# Positions from Bearden Rev. Modern Physics 39, 1967, p78
+# 2 Lorentzian model from Rich's original fitSchnopper
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   5898.75            2.800000          1.000000  
+   5887.65            2.800000          0.500000  

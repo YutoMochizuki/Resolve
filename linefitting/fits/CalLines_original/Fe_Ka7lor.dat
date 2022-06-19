@@ -1,0 +1,19 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Fe_Ka7lor
+# Z: 26
+# ELOW: 6345.000000
+# EHIGH: 6450.000000
+#
+# 7 Lorentzian model from G. Holzer, M. Fritsch, M. Deutsch, J. Hartwig, and E. Forster
+# Phys Rev A, Vol 56, p4554
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   6404.148           1.613000          0.697000  
+   6403.295           1.965000          0.376000  
+   6400.653           4.833000          0.088000  
+   6402.077           2.803000          0.136000  
+   6391.190           2.487000          0.339000  
+   6389.106           2.339000          0.060000  
+   6390.275           4.433000          0.102000  

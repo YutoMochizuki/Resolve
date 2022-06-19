@@ -1,0 +1,17 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Cu_Kb5lor
+# Z: 29
+# ELOW: 8828.000000
+# EHIGH: 8980.000000
+#
+# 5 Lorentzian model from G. Holzer, M. Fritsch, M. Deutsch, J. Hartwig, and E. Forster
+# Phys Rev A, Vol 56, p4554
+# checked by FSP 2015/05/21
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   8905.532           3.520000          0.757000  
+   8903.109           3.520000          0.388000  
+   8908.462           3.550000          0.171000  
+   8897.387           8.080000          0.068000  
+   8911.393           5.310000          0.055000  

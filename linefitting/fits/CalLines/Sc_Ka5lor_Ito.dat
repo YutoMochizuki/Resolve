@@ -1,0 +1,18 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Sc_Ka5lor_Ito
+# Z: 21
+# ELOW: 4058.000000
+# EHIGH: 4119.000000
+#
+# Ito et al, PRA 94, 042506 (2016)
+# Using FWHM column (uncorrected widths) for the satellite
+# lines (2,4,5) and the CF column (corrected widths) for
+# lines 1 and 3.
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   4090.592           1.243000          1.000000  
+   4089.38            2.291000          0.087000  
+   4085.765           1.358000          0.387000  
+   4086.29            3.660000          0.086000  
+   4093.484           1.742000          0.042000  

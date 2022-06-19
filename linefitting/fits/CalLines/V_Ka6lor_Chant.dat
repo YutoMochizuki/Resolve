@@ -1,0 +1,19 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: V_Ka6lor_Chant
+# Z: 23
+# ELOW: 4909.000000
+# EHIGH: 4987.000000
+#
+# 6 Lorentzian model from Chantler et al, PRA 73, 012508 (2006). 
+# The Lorentzian amplitudes were computed by us from the Voigt 
+# amplitudes reported in the paper.  Note: these parameters were 
+# derived from an experiment with a resolution of 2 eV. 
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   4952.237           1.450000          1.000000  
+   4950.656           2.000000          0.179000  
+   4948.266           1.810000          0.053000  
+   4955.269           1.760000          0.033000  
+   4944.672           2.940000          0.369000  
+   4943.014           3.090000          0.017000  

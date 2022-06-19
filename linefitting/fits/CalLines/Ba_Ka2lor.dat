@@ -1,0 +1,17 @@
+# XCALGSE - LINE COMPLEX
+#
+# NAME: Ba_Ka2lor
+# Z: 56
+# ELOW: 31600
+# EHIGH: 32400
+#
+# Positions from Deslattes and Kessler, Atomic Inner-shell Physics, ed 
+#    Crasemann (Plenum New York), 181 (1985)
+# 2 Lorentzian model (widths) from Kundeyi et al, AIP Conference Proceedings
+#    1815, 030011 (2017)
+# Relative intensities from Yalcin, Nucl Instrum Methods Phys Res B 254, 182
+#    (2007)
+#
+#! Energy (eV)        Width (eV)        Amplitude
+   32193.47           15.98             1.000  
+   31816.82           16.23             0.532  
